@@ -102,7 +102,8 @@
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
-			<Item Name="Flush Control Value.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Flush Control Value.vi"/>
+			<Item Name="Add Attribute To Tree.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Add Attribute To Tree.vi"/>
+			<Item Name="Flush Control Value.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Flush Control Value.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -113,8 +114,8 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Update Attribute Tree.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Update Attribute Tree.vi"/>
-			<Item Name="Update Value Control.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Update Value Control.vi"/>
+			<Item Name="Update Attribute Tree.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Update Attribute Tree.vi"/>
+			<Item Name="Update Value Control.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision Acquisition/NI-IMAQdx/High Level/SubVIs/Update Value Control.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
